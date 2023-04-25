@@ -1,5 +1,5 @@
 function IndexPage() {
-  return <div>Hello World Next - Typescript - Express</div>;
+  return <div>run it first</div>;
 }
 
 export default IndexPage;
